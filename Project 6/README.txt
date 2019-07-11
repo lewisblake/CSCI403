@@ -22,5 +22,3 @@ I didn't like that I had nothing the go off of. To be honest I felt a little unp
 but nevertheless I managed. It would have been nice to go through a similar process with a smaller database 
 in class though. I also like the music choice that CPW selected for this assignment. The Who, Led Zeppelin, Talking Heads,
 Chris Thile, Massive Attack: all great choices. Perhaps next time include some Phish and Grateful Dead!
-
-4) To be honest, I spent WAY too long on this assignment. We're talking probably around 24 hours total. It was not easy.
