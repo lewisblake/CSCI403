@@ -1,2 +1,2 @@
 # CSCI403
-Database Management
+SQL projects from a Database Management course I took at Colorado School of Mines in Spring 2018. 
