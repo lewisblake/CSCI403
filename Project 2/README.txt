@@ -6,5 +6,3 @@ so I had a closer look at my query and realized I made a mistake. Once that was 
 
 3. I liked that the problems were vague enough as to indicate a solution but not give one away.
 The questions were also ones someone might intuitively come up with in a "real-world" setting.
-
-4. I probably spent something like 2-2.5 hours on this assignment. It could have been faster but I used it as a time to really learn what was going on.
